@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tinsley1234
 - 👀 I’m interested in backend programming
 - 🌱 I’m currently learning Python programming language 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python related projects
 - 📫 How to reach me: X > SobyVYP17, Instagram > sob.ulachi 
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love music
