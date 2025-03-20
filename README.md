@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tinsley1234
-- 👀 I’m interested in backend programming
-- 🌱 I’m currently learning Python programming language 
-- 💞️ I’m looking to collaborate on python related projects
+- 👋 Hi, I’m Amaewhule Sobulachi
+- 👀 I’m interested in backend programming and frontend programming languages
+- 🌱 I’m currently learning Markup languages and Javascript
+- 💞️ I’m looking to collaborate on frontend related projects
 - 📫 How to reach me: X > SobyVYP17, Instagram > sob.ulachi 
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love music
